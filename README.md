@@ -1,19 +1,6 @@
 # to_do_app
-
 A new Flutter project.
-
 photos of app
-[Splash ](app_photos/1.jpg)
-[Splash ](app_photos/1.jpg)
-[Splash ](app_photos/1.jpg)
-[Splash ](app_photos/1.jpg)
-# to_do_app
-
-A new Flutter project.
-
-
-photos of app
-
 [Splash ](app_photos/1.jpg)
 [Home Page ](app_photos/2.jpg)
 [Add Task 1  ](app_photos/3.jpg)
